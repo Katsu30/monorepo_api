@@ -1,0 +1,10 @@
+{
+  "name": "monorepo-project",
+  "license": "UNLICENSED",
+  "private": true,
+  "workspaces": [
+    "monorepo-project/Nest",
+    "monorepo-project/next",
+    "monorepo-project/nuxt"
+  ]
+}
